@@ -1,4 +1,5 @@
-# Description # Copy Paste from [this source](https://hackaday.io/project/187504-esp32-3-channel-power-logger)
+# Description #
+### Copy Paste from [this source](https://hackaday.io/project/187504-esp32-3-channel-power-logger) ###
 
 Were you ever working on a battery or solar powered project and wanted to know exactly how much current your prototype was using?
 
@@ -73,10 +74,12 @@ I wouldn't mind a mention if you use it in any public way ```:)```
 Ensure that the display is working and that the INA3221 module is detected. 
 
 Don't forget to solder one of the J pads, in order to set the Chip address
-Optional Calibration
+
+## Optional Calibration ##
 
 If you use 1% resistors calibration may not be necessary, however depending on the accuracy you need you may want to measure the exact value of the resistors. The INA3221 library supports software calibration
-Enjoy monitoring the power consumption of your projects
+
+## Enjoy monitoring the power consumption of your projects ##
 
 If you are a beginner like me and don't want to spend too much money of measuring devices, this might be the best way for you to achieve that.
 
