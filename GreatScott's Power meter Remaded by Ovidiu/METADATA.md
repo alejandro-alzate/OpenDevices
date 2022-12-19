@@ -6,4 +6,4 @@
  # Files #
 
  resources:
- 	[ ] BOM_PCB_Power Logger SMD.csv
+ 	[x] BOM_PCB_Power Logger SMD.csv
