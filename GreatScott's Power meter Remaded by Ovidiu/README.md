@@ -7,6 +7,10 @@ The easiest way to measure is to use one of the INA219 or INA3221 modules which 
 
 This is why i have decided to design and create my own power logger which has way more features than any commercial product. On top of that it is fun and easy to build.
 
+# Components #
+
+Please go to the [source](https://hackaday.io/project/187504/components)
+
 # Details #
 
 Here are some of the hardware features:
