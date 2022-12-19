@@ -6,4 +6,4 @@ The modular, open-source grid storage system for your workshop.
 Join [ZackFreedman's Discord](http://bit.ly/3WpX4gM)
 
 ## Trailer ##
-[ZackFreedman's Video](http://bit.ly/3HIQzBD)
+[ZackFreedman's Video But 4k](http://bit.ly/3HIQzBD)
