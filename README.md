@@ -9,4 +9,7 @@ And repo to share open source devices with all the world.
 |[OpenProject](./Gridfinity)|Gridfinity|N/A|N/A|*"The modular, open-source grid storage system for your workshop."*|[gridfinity.xyz](http://bit.ly/3I53X3l)|
 
 
-###### [Takedowns (plz no)](http://bit.ly/3YyMDJG),	[New issue](http://bit.ly/3FIrBjd) ######
+###### Actions: 
+- [Takedowns (plz no)](http://bit.ly/3YyMDJG)
+- [New issue](http://bit.ly/3FIrBjd)
+######
