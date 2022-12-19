@@ -36,4 +36,49 @@ I am writing the software myself in ArduinoIDE and although the final version is
 
 - Display a bar graph instead of instant values for the past 1/5/15 min
 
+# Instructions #
+
+## Download and install EasyEDA software ##
+
+Use the provided schematic and PCB files and import them in EasyEDA
+
+## Make any changes if needed ##
+
+If you'd like to add your own features you could rewire the pins of the ESP32
+
+## Order PCB and components ##
+
+Now is the time to decide if you want to order the PCB with the components already soldered to it.
+
+## Solder the components to the PCB ##
+
+I have deliberately used 1206 SMD components to allow for hand soldering if you feel up for it. You don't need a microscope for those
+
+## Optionally use a spare PCB and some standoffs for protecting the bottom of the PCB ##
+
+Add some M3 standoffs and use one of the spare PCBs as a base for stability
+
+## Add the display ##
+
+I recommend using some M3 standoffs to secure the TFT display in place. You could just leave it hanging but i do not recommend it
+
+## Program the ESP32 ##
+
+You'll find my ArduinoIDE software in the files of this project. Please feel free to modify it to suit your needs
+
+I wouldn't mind a mention if you use it in any public way ```:)```
+
+## Test the software ##
+
+Ensure that the display is working and that the INA3221 module is detected. 
+
+Don't forget to solder one of the J pads, in order to set the Chip address
+Optional Calibration
+
+If you use 1% resistors calibration may not be necessary, however depending on the accuracy you need you may want to measure the exact value of the resistors. The INA3221 library supports software calibration
+Enjoy monitoring the power consumption of your projects
+
+If you are a beginner like me and don't want to spend too much money of measuring devices, this might be the best way for you to achieve that.
+
+
 Copy Paste from [this source](https://hackaday.io/project/187504-esp32-3-channel-power-logger)
