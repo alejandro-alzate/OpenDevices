@@ -1,4 +1,4 @@
-# Description #
+# Description # Copy Paste from [this source](https://hackaday.io/project/187504-esp32-3-channel-power-logger)
 
 Were you ever working on a battery or solar powered project and wanted to know exactly how much current your prototype was using?
 
@@ -81,4 +81,3 @@ Enjoy monitoring the power consumption of your projects
 If you are a beginner like me and don't want to spend too much money of measuring devices, this might be the best way for you to achieve that.
 
 
-Copy Paste from [this source](https://hackaday.io/project/187504-esp32-3-channel-power-logger)
